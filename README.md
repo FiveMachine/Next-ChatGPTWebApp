@@ -44,7 +44,7 @@ Tech Stack 🛠️
 Simply clone the repository, install the dependencies, and run the development server:
 
 ```
-git clone https://github.com/Huniko519/ChatGPT-React-Next-Web.git](https://github.com/FiveMachine/Next-ChatGPTWebApp.git
+git clone https://github.com/FiveMachine/Next-ChatGPTWebApp.git
 cd ChatGPT-React-Next-Web
 npm install
 npm run dev
